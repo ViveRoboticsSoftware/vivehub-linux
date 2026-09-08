@@ -1,0 +1,6 @@
+# Binaries are published as GitHub Release assets, never committed.
+# The arm64 tarball alone is ~105MB, over GitHub's 100MB per-file git limit.
+*.tar.gz
+*.zip
+*.sha256
+*.asc
