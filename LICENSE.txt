@@ -2,8 +2,11 @@
 VIVE Hub
 ==========
 
-© 2023~2025 HTC Corporation. All Rights Reserved.
+© 2023~2026 HTC Corporation. All Rights Reserved.
 YOUR USE OF THE SOFTWARE IS GOVERNED BY THE “VIVE PRODUCT EULA” WHICH IS AVAILABLE ON https://dl.vive.com/EULA/unified_eula_20230721_eng.pdf
 
 Unless otherwise provided herein or in the folder you download or use, the information in this software is the exclusive property of HTC. 
 This software includes certain third party software which is subject to the respective license terms. You must comply with the applicable third party license terms while using the identified third party software.  You can find the details of third party software information and applicable license terms in the file named “ThirdPartyLicenses.txt”
+
+VIVE, the VIVE logo, HTC, the HTC logo, and other HTC product and service names are trademarks or registered trademarks of HTC Corporation and its affiliates in the United States and other countries.
+No rights or licenses to HTC or VIVE trademarks are granted under this license.
