@@ -1,7 +1,8 @@
 # VIVE Hub for Linux (Beta)
 
 *VIVE Hub for Linux* is the desktop app, currently released as a beta, for setting up and monitoring HTC VIVE Ultimate
-Tracker on Linux both x86 and arm64. Supports pairing trackers to the dongle, building the tracking map,
+Tracker on Linux both x86 and arm64. (This does not include HMD support)
+Supports pairing trackers to the dongle, building the tracking map,
 and exposing tracker poses to your own application through a C++ SDK.
 
 The beta is being developed on Ubuntu, so we recommend an Ubuntu setup (see below). Other distros should work, but they haven't been tested.
